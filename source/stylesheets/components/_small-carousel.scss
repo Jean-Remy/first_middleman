@@ -1,0 +1,31 @@
+.small-carousel {
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
+.img-background {
+  background-image: url(../images/nahum_01.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
+  width: 100%;
+  border-radius: 2px;
+  padding: 30px;
+  height: 400px;
+}
+
+.collection-label {
+  background-color: $gray-lighter;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
+  width: 100%;
+  border-radius: 2px;
+  padding: 30px;
+  height: 400px;
+
+}
+
+.padding-none {
+  padding: 0 !important;
+}
